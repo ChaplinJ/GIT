@@ -1,17 +1,3 @@
- grant all on sicauonlineteach.* to GITAMQMS@'%' identified by '*k5H2B:Jinn?';
-
-
-[id] : 3160665
-[Ñ§ºÅ:]201401032
-[°à¼¶] : Ë®Àû201401
-[¸ß¿¼ÍâÓï³É¼¨] :  
-[¸ß¿¼×ÛºÏ³É¼¨] : 539
-[¼Ò³¤ĞÕÃû] : Ì·¼ÒĞË£¬ÑîºéÀ¼
-[ÃÜÂë] : 52490THY
-[ĞÕÃû] : Ì·º£Ñà
-
-
-
 <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -199,7 +185,7 @@
     <version>3.20.0-GA</version>
 </dependency>
 
-<!-- jstl±í´ïÊ½Ö§³Ö -->
+<!-- jstlè¡¨è¾¾å¼æ”¯æŒ -->
 <dependency>
 <groupId>javax.servlet.jsp.jstl</groupId>
 <artifactId>javax.servlet.jsp.jstl-api</artifactId>
@@ -210,7 +196,7 @@
 <artifactId>taglibs-standard-impl</artifactId>
 <version>1.2.5</version>
 </dependency>
-  	<!-- ÒıÈëehcache»º´æ -->
+  	<!-- å¼•å…¥ehcacheç¼“å­˜ -->
         <dependency>
             <groupId>net.sf.ehcache</groupId>
             <artifactId>ehcache</artifactId>
